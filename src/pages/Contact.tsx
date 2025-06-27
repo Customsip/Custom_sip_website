@@ -80,7 +80,7 @@ Please help me with my requirements.`;
     },
     {
       title: "Address",
-      value: "123 Industrial Area, Chennai, Tamil Nadu 600001",
+      value: "Krathinagar, Nandyal, Andhra pradesh, India",
       icon: "📍",
       link: "https://maps.google.com"
     },
@@ -262,6 +262,11 @@ Please help me with my requirements.`;
               </CardHeader>
               <CardContent>
                 <div className="grid grid-cols-2 gap-4 font-modern text-gray-600">
+                  <div>• Nandyal</div>
+                  <div>• Tirupati</div> <div>• Vijayawada</div> <div>• Amaravati</div> <div>• Visakhapatnam (Vizag)</div> <div>• Araku Valley</div> <div>• Borra Caves</div> <div>• Srisailam</div> <div>• Guntur</div> <div>• Undavalli Caves</div> <div>• Lepakshi</div> <div>• Kurnool</div> <div>• Belum Caves</div> <div>• Anantapur</div> <div>• Puttaparthi</div> <div>• Nandyal</div>
+<div>• Hyderabad</div> <div>• Charminar</div> <div>• Golconda Fort</div> <div>• Ramoji Film City</div> <div>• Hussain Sagar</div> <div>• Birla Mandir</div> <div>• Mecca Masjid</div> <div>• Salar Jung Museum</div> <div>• Warangal</div> <div>• Thousand Pillar Temple</div> <div>• Bhadrakali Temple</div> <div>• Warangal Fort</div> <div>• Yadadri (Yadagirigutta)</div> <div>• Basara</div> <div>• Nagarjuna Sagar</div>
+                  <div>• Kurnool</div>
+                  <div>• Anantapur</div>
                   <div>• Chennai</div>
                   <div>• Bangalore</div>
                   <div>• Hyderabad</div>
